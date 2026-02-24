@@ -13,10 +13,14 @@
 
 欢迎访问我的 App Store 主页下载已发布应用。
 
-<a href="https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397">
-  <img height="50" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" />
-</a>
-> [https://apps.apple.com/cn/developer/强-曾/id1453461397](https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397)
+<p align="center">
+  <a href="https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397">
+    <img height="50" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397">https://apps.apple.com/cn/developer/强-曾/id1453461397</a>
+</p>
 ---
 
 ## 📢 Telegram
