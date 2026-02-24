@@ -16,6 +16,6 @@
 
 ## 📢 Telegram
 关注 Telegram 频道获取最新动态。
-[![Telegram](https://img.shields.io/badge/Telegram-iTelecast-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/iTelecast)
+[Telegram](https://img.shields.io/badge/Telegram-iTelecast-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/iTelecast)
 > [https://t.me/iTelecast](https://t.me/iTelecast)
 </div>
