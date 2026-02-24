@@ -7,7 +7,6 @@
 <p>
   <img src="https://counter.kuber.studio/strengthen/hacker/count.svg" alt="Profile Views" />
 </p>
----
 
 ## 📱 App Store
 
@@ -21,7 +20,6 @@
 <p align="center">
   <a href="https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397">https://apps.apple.com/cn/developer/强-曾/id1453461397</a>
 </p>
----
 
 ## 📢 Telegram
 
