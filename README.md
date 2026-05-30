@@ -16,12 +16,12 @@
 欢迎访问我的 App Store 主页下载已发布应用。
 
 <p>
-  <a href="https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397">
+  <a href="https://apps.apple.com/cn/developer/weigan-technology-shenzhen-co-ltd/id1896482773">
     <img height="50" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" />
   </a>
 </p>
 
-<sub><a href="https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397">App Store 主页</a></sub>
+<sub><a href="https://apps.apple.com/cn/developer/weigan-technology-shenzhen-co-ltd/id1896482773">App Store 主页</a></sub>
 
 ---
 
